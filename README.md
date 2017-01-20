@@ -6,16 +6,18 @@ Contents on this repository:
 
 ## CODEBOOK.MD
 Contains the explanation of the dataset generated variables
-
+</br>
+</br>
 
 ## run_analysis.R
-Contains the R code that is in charge of generated the tidy dataset based on the following request:
+Contains the R code that is in charge of generated the tidy dataset based on the following request:  
 1) Merges the training and the test sets to create one data set.  
 2) Extracts only the measurements on the mean and standard deviation for each measurement.  
 3) Uses descriptive activity names to name the activities in the data set  
 4) Appropriately labels the data set with descriptive variable names.  
-5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
-
+5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+</br>
+</br>
 
 ## How to execute the run_analysis.R script
 * Put the UCI HAR data folder in your R current working directory. If you don´t have this files download them from [here.](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project)
@@ -29,7 +31,8 @@ Contains the R code that is in charge of generated the tidy dataset based on the
 If the folder is not present in your working directory you might an error similar than the following:
 
 ` [1] "A problem has occurred. The UCI HAR Dataset folder was not found in your current working directory /home/ds/Documents/Coursera Data Science/3 - Getting and Cleaning Data"`
-
+</br>
+</br>
 
 ## Details regarding the run_analysis.R code
 The run_analysis.R script follows this workflow:
