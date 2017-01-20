@@ -22,7 +22,7 @@ Note: More details on the README.md file
 
 * "subject" --> Specifies the number of the subject who was performing the action. There are 30 subjects in total
 
-* The rest of the variables in the dataset represent the features. Only the mean and standard deviation measurements were selected.  
+* The rest of the variables in the dataset represent the features. Only the mean and standard deviation measurements were selected. The feature variable names are the following:   
   1) tBodyAcc.mean...X  
   2) tBodyAcc.mean...Y  
   3) tBodyAcc.mean...Z  
