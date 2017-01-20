@@ -10,6 +10,9 @@ Note: More details on the README.md file
 * Filtered the datasets to contain the mean and standards deviation features only
 * Combines the tests and training datasets into a single one by biding by row
 
+##Summaries Calculated
+The dataset constains the mean for each of the variables group by each activity and subject
+
 ##Variables of the tidy dataset (tidySummary.txt)
 
 * "activity" --> Activity performed by the subjects. There are 6 types of activities:  
